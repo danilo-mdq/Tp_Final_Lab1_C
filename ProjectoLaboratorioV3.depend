@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1591950832 source:c:\users\charl\desktop\codeoextremo\projectolaboratoriov3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
+1592081416 source:c:\users\charl\desktop\projectolaboratoriov3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
+1490112217 source:c:\users\charl\desktop\projectolab\projectolaboratoriov3\pila.c
+	"pila.h"
+
+1490112217 c:\users\charl\desktop\projectolab\projectolaboratoriov3\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1592699660 source:c:\users\charl\desktop\projectolab\projectolaboratoriov3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"pila.h"
+
+1592736208 source:c:\users\yoga530\desktop\programacion\programacion1\tp last version\pila.c
+	"pila.h"
+
+1592736210 c:\users\yoga530\desktop\programacion\programacion1\tp last version\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1592757986 source:c:\users\yoga530\desktop\programacion\programacion1\tp last version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	"pila.h"
+
